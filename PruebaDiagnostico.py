@@ -5,7 +5,7 @@
         
 class Chiste():
     def __init__(self):
-        self.listachistes = ["Chiste1","chiste2","chiste3","chiste4","chiste5"]
+        self.listachistes = ["Chiste1","Chiste2","Chiste3","Chiste4","Chiste5"]
         
     def mostrarchiste(self,x):
         list = self.listachistes
